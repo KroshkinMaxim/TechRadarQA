@@ -1,1 +1,1 @@
-# TechRadarQA
+# TechRadar
